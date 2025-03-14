@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaronVonFlausch
+- 👋 Hi, I’m @BaronVonFlausch aka Flauschi
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning Python and Golang (maybe Ruby/Crystal)
 - 💞️ I’m looking to collaborate on my Farkle project
