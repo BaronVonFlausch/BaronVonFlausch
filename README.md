@@ -5,7 +5,7 @@
 - 📫 How to reach me: here or on LinkedIn/Xing
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started learning programming in December 2024
--  <p align="left">
+-  <p align="central">
   <img src="https://api.boot.dev/v1/users/public/9fc00616-3322-468d-8d22-ddfce5722f67/thumbnail" >
 </p>
 
